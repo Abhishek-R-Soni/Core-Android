@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstTest</string>
+    <string name="hello_dear_friends">Hello Dear, Friends!</string>
+    <string name="increase">Increase</string>
+    <string name="decrease">Decrease</string>
+    <string name="prompt">Select Language</string>
+    <string-array name="lang_list">
+        <item>C</item>
+        <item>Java</item>
+        <item>Python</item>
+    </string-array>
+</resources>
